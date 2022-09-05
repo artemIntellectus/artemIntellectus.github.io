@@ -1,7 +1,7 @@
-title: "Revolve -  Multipurpose Business & Corporate Jekyll Template"
-email: "rubel2585@gmail.com"
+title: "Seungmin's blog"
+email: "smoh17@naver.com"
 description: >- # this means to ignore newlines until "baseurl:"
-  Revolve - Multipurpose Business & Corporate Jekyll Template Jekyll Theme For Mobile Apps Download Landing Page And Blogging.
+    seungmin oh
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://artemIntellectus.github.io"
 permalink: "/:title"
@@ -16,9 +16,9 @@ mailchimp_list: "https://themeix.us16.list-manage.com/subscribe/post?u=307862c13
 copyright_text: "&copy; copyright all reserved to <a href='https://themefisher.com/'>themefisher.com</a>-2020"
 
 author_info:
-  - name: "Themefisher"
-    designation: "Travel Blogger"
-    bio: "I'm Liam, last year I decided to quit my job and travel the world. You can follow my journey on this blog!"
+  - name: "Seungmin Oh"
+    designation: "AI & Semiconductor developer"
+    bio: "I'm seungmin Oh, sophomore, majoring in artificial intelligence. You can follow my study on this blog!"
     website: "https://themefisher.com/"
     image: "/assets/images/author.jpg"
     signature: "/assets/images/liammason.png"
