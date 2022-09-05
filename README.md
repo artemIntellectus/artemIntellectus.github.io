@@ -1,1 +1,0 @@
-# artemIntellectus.github.io
